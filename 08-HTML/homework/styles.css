@@ -1,0 +1,26 @@
+h1 {
+    color: goldenrod;                                         
+}
+
+h3 {
+    color: black;
+    background-color: yellow;                                
+}
+
+img {
+    width: 400px;                
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(225, 69, 22);
+    padding: 50px;
+    border: 15px ridge rgb(249, 9, 5);
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
